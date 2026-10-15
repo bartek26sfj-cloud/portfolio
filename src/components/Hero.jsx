@@ -12,7 +12,7 @@ function Hero() {
           </span>
 
           <h1 className="hero__title">Bartlomiej Dawid Tadel</h1>
-          <p className="hero__role">Frontend utvikler under opplæring</p>
+          <p className="hero__role">Frontendutvikler fra Sandefjord under opplæring</p>
 
           <p className="hero__subtitle">
             Bygger responsive og brukervennlige nettsider og webapplikasjoner
