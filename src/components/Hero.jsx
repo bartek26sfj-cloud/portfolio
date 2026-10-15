@@ -16,8 +16,8 @@ function Hero() {
 
           <p className="hero__subtitle">
             Bygger responsive og brukervennlige nettsider og webapplikasjoner
-            med React, JavaScript, HTML og CSS — med erfaring fra produksjon
-            og logistikk i bagasjen.
+            med React, JavaScript, HTML og CSS. Jeg har også erfaring fra
+produksjon og logistikk i bagasjen.
           </p>
 
           <div className="hero__actions">

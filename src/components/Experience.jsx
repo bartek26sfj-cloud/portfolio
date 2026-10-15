@@ -2,7 +2,7 @@ import "./Experience.css";
 
 const education = [
   {
-    period: "Mars 2026 – nå",
+    period: "Mars 2026 – d.d",
     title: "Frontend- og fullstack-utvikler under opplæring",
     place: "Kodehode",
     description:
@@ -26,7 +26,7 @@ const work = [
   },
   {
     period: "Nov 2018 – sep 2021",
-    title: "Produksjons- og lagermedarbeider",
+    title: "Produksjons og lagermedarbeider",
     place: "Bergene Holm, avd. Larvik",
     description:
       "Kjørte maskiner på produksjonslinjen og stilte dem inn på riktige parametere. Kontrollerte kvalitet og feilsøkte når linjen stoppet. Periodevis skiftleder med ansvar for teamet.",
@@ -43,7 +43,7 @@ const work = [
     title: "Kundeservice og produksjon",
     place: "Russervice / Findus AS",
     description:
-      "Sesongarbeid hos begge bedriftene gjennom flere år — gikk mellom dem etter hvor det var behov, og de to sesongene utfylte hverandre gjennom året. Hos Russervice hadde jeg daglig kundekontakt på telefon og e-post og behandlet reklamasjoner; hos Findus jobbet jeg på produksjonslinjen.",
+      "Sesongarbeid hos begge bedriftene gjennom flere år. Jeg gikk mellom dem etter hvor det var behov, og de to sesongene utfylte hverandre gjennom året. Hos Russervice hadde jeg daglig kundekontakt på telefon og e-post og behandlet reklamasjoner, og hos Findus jobbet jeg på produksjonslinjen.",
   },
 ];
 

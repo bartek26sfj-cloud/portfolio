@@ -25,8 +25,8 @@ function About() {
             <p className="about__text">
               Bakgrunnen min er fra produksjon og logistikk, der jeg jobbet
               tett på systemer, skannere og maskiner som måtte stilles riktig
-              inn — og den vanen med å jobbe strukturert tar jeg med meg inn
-              i koden.
+              inn. Den vanen med å jobbe strukturert tar jeg med meg inn
+i koden.
             </p>
           </div>
 
